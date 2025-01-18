@@ -1,0 +1,16 @@
+.text {
+    font-weight: bold;
+}
+
+.pret {
+    margin-top: auto
+}
+iframe{
+    
+    border: 0;  
+    width: 50%;
+    height: 500px;
+}
+.card-text{
+    text-align: center;
+}
